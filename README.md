@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Winfred — a passionate Full-Stack Developer 👨‍💻 crafting web experiences remotely since 2018 🚀. I work full-time and freelance, building scalable, user-focused solutions from front to back.</div>  
   
 
-- **🔭 I’m currently focused on building powerful, scalable E-commerce solutions — from custom storefronts to seamless payment integrations.
+ **🔭 I’m currently focused on building powerful, scalable E-commerce solutions — from custom storefronts to seamless payment integrations.**
 
 I’m also exploring and contributing to projects like GitHub Profilinator
  to level up the developer experience.
