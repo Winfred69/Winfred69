@@ -31,7 +31,7 @@ Here are some in-demand project areas I'm working on or planning to explore:
 
 🚚 Shipping & logistics integrations
 
-🔎 Advanced product search and filtering (Elasticsearch, Algolia)**  
+🔎 Advanced product search and filtering (Elasticsearch, Algolia) 
   
 
 **🌱 I’m currently expanding my skillset with in-demand technologies like Hyperledger and Kubernetes — diving deep into blockchain for enterprise and container orchestration at scale.**
