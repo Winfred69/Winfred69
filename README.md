@@ -52,10 +52,10 @@ What I’m learning right now:
 
 🧩 Microservices Architecture – designing modular and scalable applications
 
-⚙️ CI/CD Pipelines – automating build, test, and deployment workflows***  
+⚙️ CI/CD Pipelines – automating build, test, and deployment workflows
   
 
- **❓ Got questions about the MERN stack? **
+ **❓ Got questions about the MERN stack? ** <br>
 Ask me anything related to MongoDB, Express.js, React, Node.js, or the ecosystem around it — from building full-stack apps and RESTful APIs to deployment, optimization, and best practices.
 
 **I’m always up for a good dev conversation or helping out a fellow builder. 🚀**  
