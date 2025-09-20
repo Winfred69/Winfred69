@@ -1,14 +1,18 @@
 <div align="center">
-<img src=" />
-</div>  
+<img src="https://imglink.io/i/b793b4a6-c23f-4aa3-a149-579be9d44a01.png" alt="BLack Minimalist.png">
+</div> 
+
+
+
+
   
 
 ### <div align="center">Hi, I'm Winfred — a passionate Full-Stack Developer 👨‍💻 crafting web experiences remotely since 2018 🚀. I work full-time and freelance, building scalable, user-focused solutions from front to back.</div>  <br>
   
 
- **🔭 I’m currently focused on building powerful, scalable E-commerce solutions — from custom storefronts to seamless payment integrations.**
+ **🔭 I’m currently focused on building powerful, scalable E-commerce solutions — from custom storefronts to seamless payment integrations.** 
 
-I’m also exploring and contributing to projects like GitHub Profilinator
+I’m also exploring and contributing to projects like GitHub Profilinator 
  to level up the developer experience.
 
 Here are some in-demand project areas I'm working on or planning to explore:
