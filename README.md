@@ -172,5 +172,4 @@ Yes, I know the arguments. Yes, I’ve read the style guides. But in the end, ta
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
